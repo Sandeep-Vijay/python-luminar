@@ -1,0 +1,14 @@
+>>> Encapsulation
+    Encapsulation is used to restrict access to methods and variables.
+    In encapsulation, code and data are wrapped together within a single unit
+
+    Eg:if an employee from the accounts section needs the records of sales from the sales section,
+       then they cannot directly access it.
+       To access, the employee of the account sections needs to get permission from the sales section team member.
+       Therefore, the sales data is hidden from other departments
+
+>>>  Python Access Modifiers
+   > public
+   > private
+   > protected
+

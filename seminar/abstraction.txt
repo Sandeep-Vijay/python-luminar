@@ -1,0 +1,19 @@
+>>> Abstraction in python
+
+   > Defined as a process of handling complexity by hiding unnecessary information from the user.
+   > Hide all the irrelevant data/process of an application in order to reduce complexity
+   > In Python, abstraction can be achieved by using abstract classes and methods in our programs.
+   > Python provides the abc module to use the abstraction in the Python program
+
+>>  Eg:  while we shop on Amazon or other online shopping,we buy products/ add to cart and pay for them,
+          But when we click on the available options which perform a lot of functionalities
+          behind and that implementation is not available to the user.
+
+>>> Abstract class and Methods
+
+   > A class containing abstract methods is called abstract class called Abstract class.
+   > Method that has a declaration but does not have an implementation.
+     A method becomes abstract when decorated with the keyword @abstractmethod
+
+>> It allows you to create a set of methods that must be created within any
+   child classes built from the abstract class.

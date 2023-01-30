@@ -1,0 +1,9 @@
+#dictionary
+
+it keeps order
+heterogeneous
+duplication not supported for keys-if we add same key again it will update the old same key with new value
+duplication possible for values
+indexing not supported instead if we enter the key name we can call the value in that key
+mutable-
+support nesing

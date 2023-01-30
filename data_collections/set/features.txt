@@ -1,0 +1,11 @@
+#set
+
+#1. set doesn't keep order #eg {1,2,3,4} >> {2,3,1,4}
+#2. heterogeneous,because it can store different types of data within a set
+#3. doesn't support duplication
+#4. if already 0 or 1, then we add false or true it will not show
+#5. it doesn't support indexing
+#6. we can use iteration to iterate each element in set
+#7. mutable data collections because datas can add or remove from the set
+#8. nesting not possible
+#9. len() function can be used

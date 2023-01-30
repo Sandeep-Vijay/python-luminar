@@ -1,0 +1,6 @@
+t=('a','p','i','p','w','h')
+print(t.count('p'))
+print(t.index('w'))
+print(t.index('p'))
+print(max(t))
+print(min(t))

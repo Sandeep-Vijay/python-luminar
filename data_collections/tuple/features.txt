@@ -1,0 +1,8 @@
+#tuple
+
+it keeps order
+it is heteregeneous
+it supports duplication
+it supports indexing
+iteration possible
+can't add or remove elements -immutable

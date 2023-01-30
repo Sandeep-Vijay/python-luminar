@@ -1,0 +1,10 @@
+#list
+
+1.keeps order - eg 1,3,2,1,5 >> 1,3,2,1,5
+2.heterogeneous - accepts all type of datas
+3.support duplicates - 1,1,2 >> 1,1,2
+4.support indexing // slicing also supports when whenever indexing is possible
+5.iteration possible
+6. len() can be used
+7.add or remove elements using append method
+8. nesting is possible
